@@ -6,3 +6,4 @@
 | 23.10.2018 | Facebook Developer Circle Berlin | [Facebook's mentorship program feedback](https://github.com/alenakhineika/facebook-meetup-8) |
 | 25.05.2019 | DEV DAY | [Compiler in JavaScript using ANTLR v2](https://github.com/alenakhineika/devday-2019) |
 | 21.08.2020 | MongoDB Demofest | [MongoDB for VSCode](https://github.com/alenakhineika/demofest-mongodb-for-vscode) |
+| 13.07.2021 | MongoDB.live | [MongoDB for VSCode: Be More Productive When You Build Applications](https://github.com/alenakhineika/mongodblive-vscode) |
